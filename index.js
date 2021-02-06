@@ -82,7 +82,7 @@ const { othermenu } require('./database/menu/othermenu')*/
 /******LOAD OF VCARD INPUT******/
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:PAIN O GOXTOSO AMOR DA SUA VIDA😳❤\n' // full name
+            + 'FN:WIZARD O GOXTOSO AMOR DA SUA VIDA😳❤\n' // full name
             + 'ORG:Owner Bot;\n' // the organization of the contact
             + 'TEL;type=CELL;type=VOICE;waid=5511949545217:+55 (11) 94954-5217\n' // ID do WhatsApp + número de telefone
             + 'END:VCARD'
